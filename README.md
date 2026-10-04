@@ -8,8 +8,6 @@ Syntax Sage combines deterministic static analysis with AI-assisted explanations
 
 ## Screenshots
 
-## Screenshots
-
 ### Main CLI
 
 Syntax Sage provides a command-line interface for single-file analysis,
