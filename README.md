@@ -1,5 +1,7 @@
 # Syntax Sage
 
+[![Syntax Sage Tests](https://github.com/sknox698-del/Syntax-Sage/actions/workflows/tests.yml/badge.svg)](https://github.com/sknox698-del/Syntax-Sage/actions/workflows/tests.yml)
+
 ## Screenshots
 
 ### Main CLI
