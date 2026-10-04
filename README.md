@@ -1,5 +1,9 @@
 # Syntax Sage
 
+## Preview
+
+![Syntax Sage CLI](docs/images/syntax-sage-cli.png)
+
 **Syntax Sage v1.0.0** is a local AI-assisted programming analysis tool designed to inspect source code, analyze projects, trace Python dependencies, and answer questions about a codebase using verified project information.
 
 Syntax Sage combines deterministic static analysis with AI-assisted explanations while applying safeguards intended to reduce unsupported or invented claims.
