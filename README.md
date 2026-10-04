@@ -1,8 +1,41 @@
 # Syntax Sage
 
-## Preview
+## Screenshots
 
-![Syntax Sage CLI](docs/images/syntax-sage-cli.png)
+### Main CLI
+
+Syntax Sage provides a command-line interface for single-file analysis,
+whole-project scanning, change-impact analysis, and project Q&A.
+
+![Syntax Sage main CLI](docs/images/syntax-sage-cli.png)
+
+### Verified Project Scan
+
+Syntax Sage scans supported source files, analyzes project structure,
+and builds a verified project report.
+
+![Syntax Sage project scan overview](docs/images/project-scan-overview.png)
+
+### Code Structure Analysis
+
+The project scanner identifies functions, classes, methods, and their
+locations throughout the analyzed source code.
+
+![Syntax Sage code structure analysis](docs/images/project-scan-code-structure.png)
+
+### Project Health and Change Impact
+
+Syntax Sage reports verified issues, project health, dependency information,
+change-impact results, and the source context available for AI analysis.
+
+![Syntax Sage project health and change impact](docs/images/project-scan-health-impact.png)
+
+### AI-Assisted Project Review
+
+After deterministic analysis, Syntax Sage can perform an AI-assisted project
+review while keeping conclusions grounded in verified project information.
+
+![Syntax Sage AI-assisted project review](docs/images/project-scan-ai-review.png)
 
 **Syntax Sage v1.0.0** is a local AI-assisted programming analysis tool designed to inspect source code, analyze projects, trace Python dependencies, and answer questions about a codebase using verified project information.
 
