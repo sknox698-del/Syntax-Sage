@@ -1,6 +1,14 @@
 # Syntax Sage
 
+# Syntax Sage
+
 [![Syntax Sage Tests](https://github.com/sknox698-del/Syntax-Sage/actions/workflows/tests.yml/badge.svg)](https://github.com/sknox698-del/Syntax-Sage/actions/workflows/tests.yml)
+
+**Syntax Sage v1.0.0** is a local AI-assisted programming analysis tool designed to inspect source code, analyze projects, trace Python dependencies, and answer questions about a codebase using verified project information.
+
+Syntax Sage combines deterministic static analysis with AI-assisted explanations while applying safeguards intended to reduce unsupported or invented claims.
+
+## Screenshots
 
 ## Screenshots
 
@@ -38,10 +46,6 @@ After deterministic analysis, Syntax Sage can perform an AI-assisted project
 review while keeping conclusions grounded in verified project information.
 
 ![Syntax Sage AI-assisted project review](docs/images/project-scan-ai-review.png)
-
-**Syntax Sage v1.0.0** is a local AI-assisted programming analysis tool designed to inspect source code, analyze projects, trace Python dependencies, and answer questions about a codebase using verified project information.
-
-Syntax Sage combines deterministic static analysis with AI-assisted explanations while applying safeguards intended to reduce unsupported or invented claims.
 
 ## Features
 
