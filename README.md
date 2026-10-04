@@ -1,7 +1,5 @@
 # Syntax Sage
 
-# Syntax Sage
-
 [![Syntax Sage Tests](https://github.com/sknox698-del/Syntax-Sage/actions/workflows/tests.yml/badge.svg)](https://github.com/sknox698-del/Syntax-Sage/actions/workflows/tests.yml)
 
 **Syntax Sage v1.0.0** is a local AI-assisted programming analysis tool designed to inspect source code, analyze projects, trace Python dependencies, and answer questions about a codebase using verified project information.
